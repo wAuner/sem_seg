@@ -101,3 +101,10 @@ ENV/
 .mypy_cache/
 
 RUNS/
+
+vgg/
+
+mdlckpt/
+
+runs/
+notebooks/
